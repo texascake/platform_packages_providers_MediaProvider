@@ -17,4 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Ask to scan on boot -->
+  <string name="ask_scan_title">Yeni medya için tarama yapılsın mı?</string>
+  <string name="ask_scan_text">Medya taramayı elle başlat</string>
 </resources>
