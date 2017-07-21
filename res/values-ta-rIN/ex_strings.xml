@@ -17,4 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Ask to scan on boot -->
+  <string name="ask_scan_title">புதிய ஊடக கோப்புகளை கண்டறிய?</string>
+  <string name="ask_scan_text">புதிய ஊடக கோப்புகளை கண்டறிய இங்கு தொடவும்</string>
 </resources>
