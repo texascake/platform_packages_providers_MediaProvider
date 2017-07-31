@@ -17,4 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Ask to scan on boot -->
+  <string name="ask_scan_title">是否扫描新的媒体文件？</string>
+  <string name="ask_scan_text">单击以手动触发媒体扫描</string>
 </resources>

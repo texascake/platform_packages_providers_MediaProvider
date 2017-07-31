@@ -17,6 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Ask to scan on boot -->
-  <string name="ask_scan_title">Keressen új media fájlokat?</string>
-  <string name="ask_scan_text">Érintsen hogy kézzel keressen média fájlokat</string>
+  <string name="ask_scan_title">Keressen új mediafájlokat?</string>
+  <string name="ask_scan_text">Kattintson ide a médiakereséshez</string>
 </resources>
